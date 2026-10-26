@@ -1,6 +1,6 @@
 {
   "dealership": "Lexus Of Kelowna",
-  "generated_at": "2026-10-26T04:51:06",
+  "generated_at": "2026-10-26T04:54:55",
   "vehicle_count": 126,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -11,6 +11,30 @@
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3c64724ad5c6.html",
       "condition": "new",
       "price": 67239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus LX 600 F Sportin Kelowna",
+      "vin": "JTJMB7CX1T4097572",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f91745499925.html",
+      "condition": "new",
+      "price": 145444.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus LX 600 Luxuryin Kelowna",
+      "vin": "JTJGB7CX4T4097191",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1e98588d4d37.html",
+      "condition": "new",
+      "price": 147150.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ9TC119805",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/e4e2e135f817.html",
+      "condition": "new",
+      "price": 57680.0,
       "price_currency": "CAD"
     },
     {
@@ -25,6 +49,30 @@
       "name": "New 2026 Lexus NX 350in Kelowna",
       "vin": "2T2GGCEZ7TC130916",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/c54a3b32f3bd.html",
+      "condition": "new",
+      "price": 57680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 F Sport 2in Kelowna",
+      "vin": "2T2KGCEZ2TC113192",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f741fa790032.html",
+      "condition": "new",
+      "price": 64862.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
+      "vin": "2T2GGCEZ4TC117928",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/2fd3b4345e6e.html",
+      "condition": "new",
+      "price": 58330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
+      "vin": "2T2GGCEZ4TC126418",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/a4553cf63578.html",
       "condition": "new",
       "price": 57680.0,
       "price_currency": "CAD"
@@ -1058,28 +1106,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Lexus LX 600 F Sportin Kelowna",
-      "vin": "JTJMB7CX1T4097572",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f91745499925.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "LX",
-      "condition": "new",
-      "price": 145444.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus LX 600 Luxuryin Kelowna",
-      "vin": "JTJGB7CX4T4097191",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1e98588d4d37.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "LX",
-      "condition": "new",
-      "price": 147150.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Lexus NX F Sport 2in Kelowna",
       "vin": "JTJKKCFZ3T2085867",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/b06480f9b7d1.html",
@@ -1092,52 +1118,8 @@
     },
     {
       "name": "2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ9TC119805",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/e4e2e135f817.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 57680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350in Kelowna",
       "vin": "2T2GGCEZ7TC130916",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/98c04734169d.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 57680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350 F Sport 2in Kelowna",
-      "vin": "2T2KGCEZ2TC113192",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f741fa790032.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 64862.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350 Premiumin Kelowna",
-      "vin": "2T2GGCEZ4TC117928",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/2fd3b4345e6e.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 58330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350 Premiumin Kelowna",
-      "vin": "2T2GGCEZ4TC126418",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/a4553cf63578.html",
       "year": 2026,
       "make": "Lexus",
       "model": "NX",
