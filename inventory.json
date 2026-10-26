@@ -1,10 +1,42 @@
 {
   "dealership": "Lexus Of Kelowna",
-  "generated_at": "2026-10-25T19:46:20",
-  "vehicle_count": 127,
+  "generated_at": "2026-10-25T19:49:20",
+  "vehicle_count": 126,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Lexus ES 350 Premiumin Kelowna",
+      "vin": "JTHBCCA18T2001512",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3c64724ad5c6.html",
+      "condition": "new",
+      "price": 67239.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ9TC131968",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1078a1f9e615.html",
+      "condition": "new",
+      "price": 66437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ7TC130916",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/c54a3b32f3bd.html",
+      "condition": "new",
+      "price": 57680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus UX 300hin Kelowna",
+      "vin": "JTHUCJDH9T2021516",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/02d2d6455758.html",
+      "condition": "new",
+      "price": 49364.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Lexus UX 300h Premiumin Kelowna",
       "vin": "JTHUCJDH2T2021051",
@@ -198,17 +230,6 @@
       "model": "NX",
       "condition": "new",
       "price": 31900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mazda CX-5 ",
-      "vin": "JM1DKFD77J0309326",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/37beaa8024a2.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 23200.0,
       "price_currency": "CAD"
     },
     {
@@ -1026,17 +1047,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Lexus ES 350 Premiumin Kelowna",
-      "vin": "JTHBCCA18T2001512",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3c64724ad5c6.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "ES",
-      "condition": "new",
-      "price": 67239.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Lexus ES 350 Premium+in Kelowna",
       "vin": "JTHBGCD16T2000875",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3bdc08f252ca.html",
@@ -1095,28 +1105,6 @@
       "name": "2026 Lexus NX 350in Kelowna",
       "vin": "2T2GGCEZ7TC130916",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/98c04734169d.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 57680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ9TC131968",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1078a1f9e615.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "new",
-      "price": 66437.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ7TC130916",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/c54a3b32f3bd.html",
       "year": 2026,
       "make": "Lexus",
       "model": "NX",
@@ -1309,17 +1297,6 @@
       "model": "UX",
       "condition": "new",
       "price": 48294.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Lexus UX 300hin Kelowna",
-      "vin": "JTHUCJDH9T2021516",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/02d2d6455758.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "new",
-      "price": 49364.0,
       "price_currency": "CAD"
     },
     {
