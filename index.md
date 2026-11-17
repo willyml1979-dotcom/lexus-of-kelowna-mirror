@@ -1,6 +1,6 @@
 # Lexus of Kelowna
 
- dealership in Kelowna. AI-readable inventory mirror, about 123 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 104 vehicles.
 
 - Official website: https://www.lexusofkelowna.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/
