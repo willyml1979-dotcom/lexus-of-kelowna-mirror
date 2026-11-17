@@ -1,140 +1,216 @@
 {
   "dealership": "Lexus Of Kelowna",
-  "generated_at": "2026-10-26T04:54:55",
-  "vehicle_count": 126,
+  "generated_at": "2026-11-16T23:58:43",
+  "vehicle_count": 123,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Lexus ES 350 Premiumin Kelowna",
-      "vin": "JTHBCCA18T2001512",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3c64724ad5c6.html",
-      "condition": "new",
-      "price": 67239.0,
+      "name": "Lexus RX 350 2016 for salein Kelowna",
+      "vin": "2T2BZMCA5GC036417",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9407d7b2461f.html",
+      "condition": "used",
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus LX 600 F Sportin Kelowna",
-      "vin": "JTJMB7CX1T4097572",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f91745499925.html",
-      "condition": "new",
-      "price": 145444.0,
+      "name": "Audi S3 2018 for salein Kelowna",
+      "vin": "WAUF1GFFXJ1072148",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9b72fd44502f.html",
+      "condition": "used",
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus LX 600 Luxuryin Kelowna",
-      "vin": "JTJGB7CX4T4097191",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1e98588d4d37.html",
-      "condition": "new",
-      "price": 147150.0,
+      "name": "Toyota 4Runner 2018 for salein Kelowna",
+      "vin": "JTEBU5JRXJ5530483",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3a941dd405c4.html",
+      "condition": "used",
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ9TC119805",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/e4e2e135f817.html",
-      "condition": "new",
-      "price": 57680.0,
+      "name": "Acura MDX 2019 for salein Kelowna",
+      "vin": "5J8YD4H28KL804912",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/c1bd29462aaa.html",
+      "condition": "used",
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ9TC131968",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1078a1f9e615.html",
-      "condition": "new",
-      "price": 66437.0,
+      "name": "Lexus NX 300 2019 for salein Kelowna",
+      "vin": "JTJBARBZ7K2181396",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/20c3963f8aef.html",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350in Kelowna",
-      "vin": "2T2GGCEZ7TC130916",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/c54a3b32f3bd.html",
-      "condition": "new",
-      "price": 57680.0,
+      "name": "Mitsubishi Eclipse Cross 2020 for salein Kelowna",
+      "vin": "JA4AT4AA9LZ606370",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a58f8e215ac5.html",
+      "condition": "used",
+      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350 F Sport 2in Kelowna",
-      "vin": "2T2KGCEZ2TC113192",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f741fa790032.html",
-      "condition": "new",
-      "price": 64862.0,
+      "name": "Subaru Crosstrek 2020 for salein Kelowna",
+      "vin": "4S4WMARD6L3422511",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f24eec6638c5.html",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
-      "vin": "2T2GGCEZ4TC117928",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/2fd3b4345e6e.html",
-      "condition": "new",
-      "price": 58330.0,
+      "name": "Lexus IS 350 2021 for salein Kelowna",
+      "vin": "JTHGZ1E29M5021294",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/351ffa962ae5.html",
+      "condition": "used",
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
-      "vin": "2T2GGCEZ4TC126418",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/a4553cf63578.html",
-      "condition": "new",
-      "price": 57680.0,
+      "name": "Lexus NX 300 2021 for salein Kelowna",
+      "vin": "JTJHARDZ0M2257762",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f5ef3b576154.html",
+      "condition": "used",
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus UX 300hin Kelowna",
-      "vin": "JTHUCJDH9T2021516",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/02d2d6455758.html",
-      "condition": "new",
-      "price": 49364.0,
+      "name": "Volkswagen Golf R 2022 for salein Kelowna",
+      "vin": "WVWFB7CD4NW158003",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/ca7cf919c1d0.html",
+      "condition": "used",
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Lexus UX 300h Premiumin Kelowna",
-      "vin": "JTHUCJDH2T2021051",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/47edc32bdcfe.html",
-      "condition": "new",
-      "price": 47644.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2010 Lexus LX 570in Kelowna",
-      "vin": "JTJHY7AX8A4042097",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/0f3a0933ae66.html",
-      "year": 2010,
-      "make": "Lexus",
-      "model": "LX",
+      "name": "Ford F-150 2023 for salein Kelowna",
+      "vin": "1FTFW1E82PFB72924",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/0f4de46228da.html",
       "condition": "used",
       "price": 56900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2010 Lexus LX 570 ",
-      "vin": "JTJHY7AX8A4042097",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/0723d2ac6da9.html",
-      "year": 2010,
-      "make": "Lexus",
-      "model": "LX",
+      "name": "Lexus RX 350h 2023 for salein Kelowna",
+      "vin": "2T2BBMCA2PC016582",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/7938f74074f5.html",
       "condition": "used",
-      "price": 56900.0,
+      "price": 55900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Lexus RX Touringin Kelowna",
-      "vin": "2T2BK1BA8FC341154",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/cf3ea85b69a2.html",
-      "year": 2015,
-      "make": "Lexus",
-      "model": "RX",
+      "name": "Lincoln Navigator 2023 for salein Kelowna",
+      "vin": "5LMJJ2LG9PEL05797",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3f54f188399d.html",
       "condition": "used",
-      "price": 25900.0,
+      "price": 69995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Lexus RX ",
-      "vin": "2T2BK1BA8FC341154",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/5a20137b2b0e.html",
-      "year": 2015,
-      "make": "Lexus",
-      "model": "RX",
+      "name": "Toyota Highlander Hybrid 2023 for salein Kelowna",
+      "vin": "5TDEBRCHXPS128629",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/123dfd2eae09.html",
       "condition": "used",
-      "price": 25900.0,
+      "price": 58995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco 2024 for salein Kelowna",
+      "vin": "1FMEE4GP7RLA29536",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/87496660d295.html",
+      "condition": "used",
+      "price": 78900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus IS 2024 for salein Kelowna",
+      "vin": "JTHAP1D20R5005456",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/96bbb23c34c2.html",
+      "condition": "used",
+      "price": 82995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 350h 2024 for salein Kelowna",
+      "vin": "2T2BBMCA8RC027427",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/0e487c490bd4.html",
+      "condition": "used",
+      "price": 59995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 500h 2024 for salein Kelowna",
+      "vin": "2T2BCMEA2RC014697",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/691e0d0d217f.html",
+      "condition": "used",
+      "price": 64995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus UX 250h 2024 for salein Kelowna",
+      "vin": "JTHL9JBH2R2073589",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/697a519e7da5.html",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota 4Runner 2024 for salein Kelowna",
+      "vin": "JTEKU5JR8R6245139",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/101780a496fc.html",
+      "condition": "used",
+      "price": 62995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus NX 2025 for salein Kelowna",
+      "vin": "2T2GGCEZ2SC063009",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3b4ac0adad1e.html",
+      "condition": "used",
+      "price": 51900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 350 2025 for salein Kelowna",
+      "vin": "2T2BAMCA1SC107399",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f58bb850235b.html",
+      "condition": "used",
+      "price": 68995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 450h+ 2025 for salein Kelowna",
+      "vin": "JTJCJMGA6S2029863",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/1b0c0fc29246.html",
+      "condition": "used",
+      "price": 84995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus UX 2025 for salein Kelowna",
+      "vin": "JTHUCJDH1S2003655",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/2d4563626836.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus UX 300h 2025 for salein Kelowna",
+      "vin": "JTHUCJDH3S2000823",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a952b6fae6d1.html",
+      "condition": "used",
+      "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X1 2026 for salein Kelowna",
+      "vin": "WBX73EF06T5604575",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/094a02e319c2.html",
+      "condition": "used",
+      "price": 45900.0,
       "price_currency": "CAD"
     },
     {
@@ -149,58 +225,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Lexus RX 350 ",
-      "vin": "2T2BZMCA5GC036417",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9407d7b2461f.html",
-      "year": 2016,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Lexus IS 300 F Sport Series 2in Kelowna",
-      "vin": "JTHCM1D2XH5020479",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/b6d3520978d9.html",
-      "year": 2017,
-      "make": "Lexus",
-      "model": "IS",
-      "condition": "used",
-      "price": 28900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Lexus IS 300 ",
-      "vin": "JTHCM1D2XH5020479",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3292ac37fa82.html",
-      "year": 2017,
-      "make": "Lexus",
-      "model": "IS",
-      "condition": "used",
-      "price": 28900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Ridgeline EX-Lin Kelowna",
-      "vin": "5FPYK3F53JB502139",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9429321ce8c0.html",
+      "name": "2018 Audi S3 2.0T quattro Technikin Kelowna",
+      "vin": "WAUF1GFFXJ1072148",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/ea77de306558.html",
       "year": 2018,
-      "make": "Honda",
-      "model": "Ridgeline",
+      "make": "Audi",
+      "model": "S3",
       "condition": "used",
-      "price": 38900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Honda Ridgeline ",
-      "vin": "5FPYK3F53JB502139",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/02aaa5debb0b.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Ridgeline",
-      "condition": "used",
-      "price": 38900.0,
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
@@ -212,50 +244,6 @@
       "model": "Ridgeline",
       "condition": "new",
       "price": 38900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Lexus LX Executivein Kelowna",
-      "vin": "JTJHY7AX4J4275698",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/41417db09e19.html",
-      "year": 2018,
-      "make": "Lexus",
-      "model": "LX",
-      "condition": "used",
-      "price": 89995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Lexus LX ",
-      "vin": "JTJHY7AX4J4275698",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f6273c5a6002.html",
-      "year": 2018,
-      "make": "Lexus",
-      "model": "LX",
-      "condition": "used",
-      "price": 89995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Lexus NX 300 Executivein Kelowna",
-      "vin": "JTJBARBZ6J2157959",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/7a05147c7778.html",
-      "year": 2018,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 31900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Lexus NX 300 ",
-      "vin": "JTJBARBZ6J2157959",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/77973ab0c9ea.html",
-      "year": 2018,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -281,47 +269,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Civic Touringin Kelowna",
-      "vin": "2HGFC1F92KH103448",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a631cfd50ec0.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
+      "name": "2018 Toyota 4Runner TRD Proin Kelowna",
+      "vin": "JTEBU5JRXJ5530483",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/df6916b4b8e4.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "4Runner",
       "condition": "used",
-      "price": 20900.0,
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Civic ",
-      "vin": "2HGFC1F92KH103448",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3060cdec7002.html",
+      "name": "2019 Acura MDX Basein Kelowna",
+      "vin": "5J8YD4H28KL804912",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3e04988f00b9.html",
       "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
+      "make": "Acura",
+      "model": "MDX",
       "condition": "used",
-      "price": 20900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Compass Sportin Kelowna",
-      "vin": "3C4NJDAB0KT645988",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/b1704dd0b6b8.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 14500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Compass ",
-      "vin": "3C4NJDAB0KT645988",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/2437f2204299.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 14500.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -333,6 +299,17 @@
       "model": "Compass",
       "condition": "new",
       "price": 14500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Lexus NX 300 F Sport Series 2in Kelowna",
+      "vin": "JTJBARBZ7K2181396",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/17c23bf2936c.html",
+      "year": 2019,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
@@ -355,28 +332,6 @@
       "model": "RX",
       "condition": "used",
       "price": 43500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Lexus UX F Sport Series 2in Kelowna",
-      "vin": "JTHU9JBH2K2010891",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/e857b9d2447b.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Lexus UX ",
-      "vin": "JTHU9JBH2K2010891",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/6f6eb4099eb1.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 33995.0,
       "price_currency": "CAD"
     },
     {
@@ -413,72 +368,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Escape Titaniumin Kelowna",
-      "vin": "1FMCU9J91LUB88877",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/69b1ea9313b1.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Escape ",
-      "vin": "1FMCU9J91LUB88877",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/b9bf79032a52.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lexus RX 350 Luxuryin Kelowna",
-      "vin": "2T2JZMDA7LC248952",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/846969aec782.html",
-      "year": 2020,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lexus RX 350 ",
-      "vin": "2T2JZMDA7LC248952",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/96662b39bfe9.html",
-      "year": 2020,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lexus UX 250h F Sport 2in Kelowna",
-      "vin": "JTHR9JBH0L2020780",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/25189f611048.html",
-      "year": 2020,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lexus UX 250h ",
-      "vin": "JTHR9JBH0L2020780",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/56eb471c255e.html",
-      "year": 2020,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 29900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Lexus RX 350 ",
       "vin": "2T2JZMDA7LC248952",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/990c7e154ab1.html",
@@ -498,6 +387,39 @@
       "model": "UX",
       "condition": "new",
       "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Mitsubishi Eclipse Cross ESin Kelowna",
+      "vin": "JA4AT4AA9LZ606370",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/289002f05d61.html",
+      "year": 2020,
+      "make": "Mitsubishi",
+      "model": "Eclipse Cross",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Subaru Crosstrek Limited w/captain'sin Kelowna",
+      "vin": "4S4WMARD6L3422511",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f0c04f90fd11.html",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "condition": "used",
+      "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Cadillac Escalade Sportin Kelowna",
+      "vin": "1GYS4FKL0MR270705",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/b48ee01a6823.html",
+      "year": 2021,
+      "make": "Cadillac",
+      "model": "Escalade",
+      "condition": "used",
+      "price": 78900.0,
       "price_currency": "CAD"
     },
     {
@@ -545,6 +467,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Lexus IS 350 F Sport Series 3in Kelowna",
+      "vin": "JTHGZ1E29M5021294",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/46adbd71734c.html",
+      "year": 2021,
+      "make": "Lexus",
+      "model": "IS",
+      "condition": "used",
+      "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Lexus NX 300 Executivein Kelowna",
       "vin": "JTJHARDZ5M2244733",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/ede26de344d9.html",
@@ -556,14 +489,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Lexus NX 300 ",
-      "vin": "JTJHARDZ5M2244733",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f5ef3b576154.html",
+      "name": "2021 Lexus NX 300 Luxuryin Kelowna",
+      "vin": "JTJHARDZ0M2257762",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/08c7fbf81838.html",
       "year": 2021,
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 40900.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -586,17 +519,6 @@
       "model": "RX",
       "condition": "used",
       "price": 45300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Lexus RX 350 F Sport Series 3in Kelowna",
-      "vin": "2T2YZMDA5MC294800",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f9389e6e1a4e.html",
-      "year": 2021,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 46900.0,
       "price_currency": "CAD"
     },
     {
@@ -655,50 +577,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Lexus LC Performancein Kelowna",
-      "vin": "JTHMPAAYXNA105541",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f3a5dd3b0b77.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "LC",
-      "condition": "used",
-      "price": 128995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus LC ",
-      "vin": "JTHMPAAYXNA105541",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/65e4db9f96d8.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "LC",
-      "condition": "used",
-      "price": 128995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus UX 250h F Sport Special Editionin Kelowna",
-      "vin": "JTHR9JBH4N2054708",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/e0eff4037ac8.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus UX 250h ",
-      "vin": "JTHR9JBH4N2054708",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/4b69d0d4caa6.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 33995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Lexus LC 500 ",
       "vin": "JTHMPAAYXNA105541",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/0d6a5a21e15c.html",
@@ -721,25 +599,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Classic Warlockin Kelowna",
-      "vin": "1C6RR7LT2NS122552",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/bfff38fc9a88.html",
+      "name": "2022 Volkswagen Golf R 2.0Tin Kelowna",
+      "vin": "WVWFB7CD4NW158003",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/e06e42888cdd.html",
       "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
+      "make": "Volkswagen",
+      "model": "Golf R",
       "condition": "used",
-      "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 Classic ",
-      "vin": "1C6RR7LT2NS122552",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/6017f1b2f119.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 38995.0,
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -756,45 +623,12 @@
     {
       "name": "2023 Ford F-150 ",
       "vin": "1FTFW1E82PFB72924",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/0f4de46228da.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 57900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford F-150 ",
-      "vin": "1FTFW1E82PFB72924",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/0f4de46228da.html",
       "year": 2023,
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
       "price": 57900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler Sport Willysin Kelowna",
-      "vin": "1C4GJXAN7PW687645",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9bdc3ac80b42.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 32900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Jeep Wrangler ",
-      "vin": "1C4GJXAN7PW687645",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/57f57980023d.html",
-      "year": 2023,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 32900.0,
       "price_currency": "CAD"
     },
     {
@@ -816,18 +650,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 56900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Lexus RX 350h ",
-      "vin": "2T2BBMCA2PC016582",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/7938f74074f5.html",
-      "year": 2023,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 56900.0,
+      "price": 55900.0,
       "price_currency": "CAD"
     },
     {
@@ -842,6 +665,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Lincoln Navigator Reservein Kelowna",
+      "vin": "5LMJJ2LG9PEL05797",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9d85557b5791.html",
+      "year": 2023,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "condition": "used",
+      "price": 69995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Toyota Highlander Hybrid Platinumin Kelowna",
       "vin": "5TDEBRCHXPS128629",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/6892828160c6.html",
@@ -853,47 +687,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Highlander Hybrid ",
-      "vin": "5TDEBRCHXPS128629",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/123dfd2eae09.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "Highlander Hybrid",
-      "condition": "used",
-      "price": 58995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco ",
+      "name": "2024 Ford Bronco Heritage Limited Editionin Kelowna",
       "vin": "1FMEE4GP7RLA29536",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/87496660d295.html",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/16fd2a329fac.html",
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
       "condition": "used",
-      "price": 79995.0,
+      "price": 78900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Lexus NX 350 Ultra Premiumin Kelowna",
-      "vin": "2T2GGCEZ9RC032642",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/8b41b07b2c7c.html",
+      "name": "2024 Lexus IS F Sport Perfomancein Kelowna",
+      "vin": "JTHAP1D20R5005456",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/2ba78891759f.html",
       "year": 2024,
       "make": "Lexus",
-      "model": "NX",
+      "model": "IS",
       "condition": "used",
-      "price": 45900.0,
+      "price": 82995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Lexus NX 350 ",
-      "vin": "2T2GGCEZ9RC032642",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/bfdd3d449916.html",
+      "name": "2024 Lexus RX 350h Luxuryin Kelowna",
+      "vin": "2T2BBMCA8RC027427",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/fb41dc08d849.html",
       "year": 2024,
       "make": "Lexus",
-      "model": "NX",
+      "model": "RX",
       "condition": "used",
-      "price": 45900.0,
+      "price": 59995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Lexus RX 500h F Sport Series 3in Kelowna",
+      "vin": "2T2BCMEA2RC014697",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9e644277d352.html",
+      "year": 2024,
+      "make": "Lexus",
+      "model": "RX",
+      "condition": "used",
+      "price": 64995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Lexus UX 250h Luxuryin Kelowna",
+      "vin": "JTHL9JBH2R2073589",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/11132318bd55.html",
+      "year": 2024,
+      "make": "Lexus",
+      "model": "UX",
+      "condition": "used",
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -908,9 +753,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota 4Runner ",
+      "name": "2024 Toyota 4Runner Limitedin Kelowna",
       "vin": "JTEKU5JR8R6245139",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/101780a496fc.html",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/5771dd1fd498.html",
       "year": 2024,
       "make": "Toyota",
       "model": "4Runner",
@@ -919,75 +764,42 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus NX Executivein Kelowna",
-      "vin": "2T2GKCEZXSC039295",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/da42375394fe.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 61995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus NX ",
-      "vin": "2T2GKCEZXSC039295",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/3b4ac0adad1e.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 61995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus NX 350 Luxuryin Kelowna",
+      "name": "2025 Lexus NX Luxuryin Kelowna",
       "vin": "2T2GGCEZ2SC063009",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/2125fd95cf41.html",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/1b9d911596ef.html",
       "year": 2025,
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 48900.0,
+      "price": 51900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus NX 350 ",
-      "vin": "2T2GGCEZ2SC063009",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/2a1edcb4380a.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 52995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus RX 350 F Sport Series 3in Kelowna",
-      "vin": "2T2BAMCA3SC116184",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/6991f76efc54.html",
+      "name": "2025 Lexus RX 350 Executivein Kelowna",
+      "vin": "2T2BAMCA1SC107399",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/4080ceff079f.html",
       "year": 2025,
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 65900.0,
+      "price": 68995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus RX 350 ",
-      "vin": "2T2BAMCA3SC116184",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f58bb850235b.html",
+      "name": "2025 Lexus RX 450h+ Executivein Kelowna",
+      "vin": "JTJCJMGA6S2029863",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f5f842c51746.html",
       "year": 2025,
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 65900.0,
+      "price": 84995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus UX 300h Luxuryin Kelowna",
+      "name": "2025 Lexus UX Luxuryin Kelowna",
       "vin": "JTHUCJDH1S2003655",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/c345ab5ea8a8.html",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/5533ff6a7065.html",
       "year": 2025,
       "make": "Lexus",
       "model": "UX",
@@ -996,14 +808,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Lexus UX 300h ",
-      "vin": "JTHUCJDH1S2003655",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a952b6fae6d1.html",
+      "name": "2025 Lexus UX 300h Premiumin Kelowna",
+      "vin": "JTHUCJDH3S2000823",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f1c1968e2fbd.html",
       "year": 2025,
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 42995.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -1040,31 +852,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda3 GT w/Turboin Kelowna",
+      "name": "2025 Mazda3 iin Kelowna",
       "vin": "JM1BPBMY8S1782898",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/6b9f9ce62401.html",
       "year": 2025,
       "make": "Mazda3",
-      "model": "GT w/Turboin Kelowna",
+      "model": "iin Kelowna",
       "condition": "used",
-      "price": 33400.0,
+      "price": 40995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 BMW X1 xDrive28iin Kelowna",
       "vin": "WBX73EF06T5604575",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/7a6a46c62b78.html",
-      "year": 2026,
-      "make": "BMW",
-      "model": "X1",
-      "condition": "used",
-      "price": 46700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 BMW X1 ",
-      "vin": "WBX73EF06T5604575",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/094a02e319c2.html",
       "year": 2026,
       "make": "BMW",
       "model": "X1",
@@ -1095,6 +896,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Lexus ES 350 Premiumin Kelowna",
+      "vin": "JTHBCCA18T2001512",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3c64724ad5c6.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "ES",
+      "condition": "new",
+      "price": 67239.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Lexus ES 350 Premium+in Kelowna",
       "vin": "JTHBGCD16T2000875",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/3bdc08f252ca.html",
@@ -1103,6 +915,28 @@
       "model": "ES",
       "condition": "new",
       "price": 69159.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus LX 600 F Sportin Kelowna",
+      "vin": "JTJMB7CX1T4097572",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f91745499925.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "LX",
+      "condition": "new",
+      "price": 145444.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus LX 600 Luxuryin Kelowna",
+      "vin": "JTJGB7CX4T4097191",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1e98588d4d37.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "LX",
+      "condition": "new",
+      "price": 147150.0,
       "price_currency": "CAD"
     },
     {
@@ -1117,9 +951,75 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ9TC119805",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/e4e2e135f817.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 57680.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Lexus NX 350in Kelowna",
       "vin": "2T2GGCEZ7TC130916",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/98c04734169d.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 57680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ9TC131968",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/1078a1f9e615.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 66437.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350in Kelowna",
+      "vin": "2T2GGCEZ7TC130916",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/c54a3b32f3bd.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 57680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 F Sport 2in Kelowna",
+      "vin": "2T2KGCEZ2TC113192",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/f741fa790032.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 64862.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
+      "vin": "2T2GGCEZ4TC117928",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/2fd3b4345e6e.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "NX",
+      "condition": "new",
+      "price": 58330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus NX 350 Premiumin Kelowna",
+      "vin": "2T2GGCEZ4TC126418",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/a4553cf63578.html",
       "year": 2026,
       "make": "Lexus",
       "model": "NX",
@@ -1282,6 +1182,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Lexus UX 300hin Kelowna",
+      "vin": "JTHUCJDH9T2021516",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/02d2d6455758.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "UX",
+      "condition": "new",
+      "price": 49364.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Lexus UX 300h Luxuryin Kelowna",
       "vin": "JTHUCJDH7T2018971",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/0844be184497.html",
@@ -1334,6 +1245,17 @@
       "model": "UX",
       "condition": "new",
       "price": 53108.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus UX 300h Premiumin Kelowna",
+      "vin": "JTHUCJDH2T2021051",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/47edc32bdcfe.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "UX",
+      "condition": "new",
+      "price": 47644.0,
       "price_currency": "CAD"
     },
     {
