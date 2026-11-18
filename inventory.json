@@ -1,6 +1,6 @@
 {
   "dealership": "Lexus Of Kelowna",
-  "generated_at": "2026-11-18T06:26:46",
+  "generated_at": "2026-11-18T06:33:34",
   "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -835,17 +835,6 @@
     },
     {
       "name": "New 2026 Lexus RX 350 Luxuryin Kelowna",
-      "vin": "2T2BAMCA3TC128658",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/06e5c78c7a39.html",
-      "year": 2026,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "new",
-      "price": 71549.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Lexus RX 350 Luxuryin Kelowna",
       "vin": "2T2BAMCA4TC132816",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/ad043dab7966.html",
       "year": 2026,
@@ -864,6 +853,17 @@
       "model": "RX",
       "condition": "new",
       "price": 64135.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Lexus RX 350 Luxuryin Kelowna",
+      "vin": "2T2BAMCA2TC168021",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/new/d1d4b51f2ee8.html",
+      "year": 2026,
+      "make": "Lexus",
+      "model": "RX",
+      "condition": "new",
+      "price": 71549.0,
       "price_currency": "CAD"
     },
     {
