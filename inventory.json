@@ -1,6 +1,6 @@
 {
   "dealership": "Lexus Of Kelowna",
-  "generated_at": "2026-11-17T00:11:43",
+  "generated_at": "2026-11-17T20:53:26",
   "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -46,6 +46,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lexus RX 350 2019 for salein Kelowna",
+      "vin": "2T2BZMCA1KC187697",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/76c5e155de2f.html",
+      "condition": "used",
+      "price": 42600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2020 for salein Kelowna",
+      "vin": "5J8TC2H70LL807625",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/bfaeb903a60d.html",
+      "condition": "used",
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi Eclipse Cross 2020 for salein Kelowna",
       "vin": "JA4AT4AA9LZ606370",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a58f8e215ac5.html",
@@ -62,6 +78,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Cadillac Escalade 2021 for salein Kelowna",
+      "vin": "1GYS4FKL0MR270705",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9c88b2ed04b0.html",
+      "condition": "used",
+      "price": 78900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Ranger 2021 for salein Kelowna",
+      "vin": "1FTER4FH1MLD71429",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a7ed9fb08274.html",
+      "condition": "used",
+      "price": 36900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lexus IS 350 2021 for salein Kelowna",
       "vin": "JTHGZ1E29M5021294",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/351ffa962ae5.html",
@@ -75,6 +107,22 @@
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f5ef3b576154.html",
       "condition": "used",
       "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 350 2021 for salein Kelowna",
+      "vin": "2T2HZMDA5MC267936",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/4cd1562e7e7f.html",
+      "condition": "used",
+      "price": 38900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura RDX 2022 for salein Kelowna",
+      "vin": "5J8TC2H65NL801880",
+      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/ea2d034135ab.html",
+      "condition": "used",
+      "price": 36900.0,
       "price_currency": "CAD"
     },
     {
@@ -276,35 +324,13 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 43500.0,
+      "price": 42600.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Lexus RX 350 ",
-      "vin": "2T2BZMCA1KC187697",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/76c5e155de2f.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 43500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Acura RDX Advancein Kelowna",
+      "name": "2020 Acura RDX Elitein Kelowna",
       "vin": "5J8TC2H70LL807625",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/f98cc01bb7a3.html",
-      "year": 2020,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Acura RDX ",
-      "vin": "5J8TC2H70LL807625",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/bfaeb903a60d.html",
       "year": 2020,
       "make": "Acura",
       "model": "RDX",
@@ -346,17 +372,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Cadillac Escalade ",
-      "vin": "1GYS4FKL0MR270705",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/9c88b2ed04b0.html",
-      "year": 2021,
-      "make": "Cadillac",
-      "model": "Escalade",
-      "condition": "used",
-      "price": 79900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Ford Ranger Lariatin Kelowna",
       "vin": "1FTER4FH1MLD71429",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/925e80dcee07.html",
@@ -364,18 +379,7 @@
       "make": "Ford",
       "model": "Ranger",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Ranger ",
-      "vin": "1FTER4FH1MLD71429",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/a7ed9fb08274.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "used",
-      "price": 37995.0,
+      "price": 36900.0,
       "price_currency": "CAD"
     },
     {
@@ -419,7 +423,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 39900.0,
+      "price": 38900.0,
       "price_currency": "CAD"
     },
     {
@@ -430,7 +434,7 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 45300.0,
+      "price": 44300.0,
       "price_currency": "CAD"
     },
     {
@@ -445,31 +449,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Lexus RX 350 ",
-      "vin": "2T2HZMDA5MC267936",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/4cd1562e7e7f.html",
-      "year": 2021,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 39900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Acura RDX SH-AWD A-SPECin Kelowna",
       "vin": "5J8TC2H65NL801880",
       "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/be9c2da7af7e.html",
-      "year": 2022,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 36900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Acura RDX ",
-      "vin": "5J8TC2H65NL801880",
-      "url": "https://willyml1979-dotcom.github.io/lexus-of-kelowna-mirror/used/ea2d034135ab.html",
       "year": 2022,
       "make": "Acura",
       "model": "RDX",
@@ -496,7 +478,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 57900.0,
+      "price": 56900.0,
       "price_currency": "CAD"
     },
     {
@@ -672,7 +654,7 @@
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 46700.0,
+      "price": 45900.0,
       "price_currency": "CAD"
     },
     {
